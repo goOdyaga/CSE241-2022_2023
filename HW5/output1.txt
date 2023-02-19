@@ -1,0 +1,29 @@
+vector class been tested
+Last move of O Tetromino is to right and it move 8 square
+
+Total move number of Game is 16
+Last move of O Tetromino is to right and it move 7 square
+
+Total move number of Game is 30
+CONTROL
+Total move number of Game is 30
+Last move of T Tetromino is to right and it move 4 square
+
+Total move number of Game is 38
+Last move of S Tetromino is to left and it move 8 square
+
+Total move number of Game is 54
+Last move of S Tetromino is to left and it move 6 square
+
+Total move number of Game is 66
+Last move of J Tetromino is to left and it move 10 square
+
+Total move number of Game is 86
+Last move of O Tetromino is to left and it move 3 square
+
+Total move number of Game is 92
+Last move of L Tetromino is to left and it move 1 square
+
+Total move number of Game is 94
+CONTROL
+Total move number of Game is 94
